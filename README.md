@@ -1,4 +1,4 @@
-# NXAXi
+# NX-AX
 ### The following is required:
 * The Arduino XInput Library (https://github.com/dmadison/ArduinoXInput)
 * A Arduino board compatible with ArduinoXInput (in my case, a Arduino Leonardo)
